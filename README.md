@@ -44,7 +44,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 ## Deploy to IBM Cloud
 
-[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM/watson-conversation-slots-intro)
+[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/srikanthIBM/watson-conversation-slots-intro)
 
 Click the ``Deploy to IBM Cloud`` button and hit ``Create`` and then jump to step 5.
 
